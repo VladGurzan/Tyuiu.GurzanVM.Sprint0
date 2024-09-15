@@ -11,7 +11,7 @@ namespace Tyuiu.GurzanVM.Sprint0.Task1.V0
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, world");
-            string name = "Vlad";
+            string name = "Влад";
             int age = 18;
             Console.WriteLine("Привет меня зовут " + name + " мне " + age + " лет ");
             Console.ReadLine();
